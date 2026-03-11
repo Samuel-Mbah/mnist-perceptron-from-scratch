@@ -1,6 +1,5 @@
 # Perceptron from Scratch on MNIST
 
-> **Suggested repository name:** `mnist-perceptron-from-scratch`
 >
 > The current name "Perceptron" is generic. A more descriptive name — `mnist-perceptron-from-scratch` — immediately communicates *what* is being implemented (a perceptron), *how* it is built (from scratch, without high-level ML frameworks), and *on what data* it is trained (the MNIST handwritten-digit dataset).
 
